@@ -6,7 +6,7 @@
 - 📫 Me contate pelo e-mail: kamily.schwann@gmail.com
 - 😄 Pronomes: ela/dela.
 - 🥋 Judoca Faixa Marrom.
-- 🖖 Star Trek Fan.
+- 🖖 Fã de Star Trek.
 
 <div>
   <a href="https://github.com/kamilysch">
