@@ -1,11 +1,11 @@
   ## Oii! Eu sou a Kamily 👋
 
-  - 🔭 Atualmente estou em busca da primeira oportunidade de emprego.
-  - ⚡ Cursando Engenharia de Software.
+  - 🔭 Atualmente em busca da primeira oportunidade de emprego.
+  - ⚡ Cursando Engenharia da Computação.
   - 🌱 Estudando Angular.
-  - 😄 Pronomes: ela/dela.
   - 🥋 Judoca Faixa Marrom.
   - 🖖 Fã de Star Trek.
+  - 💻 Fanática por banco de dados
 
 ##
 
@@ -29,7 +29,7 @@
   
   <div>
     <a href = "mailto:kamily.schwann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/kyschwann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/kamys.sql" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/kamily-schwann-dos-santos-4a1a8722a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
   </div>
