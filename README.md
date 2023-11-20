@@ -2,10 +2,9 @@
 
   - 🔭 Atualmente em busca da primeira oportunidade de emprego.
   - ⚡ Cursando Engenharia da Computação.
-  - 🌱 Estudando Angular.
   - 🥋 Judoca Faixa Marrom.
   - 🖖 Fã de Star Trek.
-  - 💻 Fanática por banco de dados
+  - 💻 Interesse em bancos de dados
 
 ##
 
