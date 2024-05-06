@@ -1,10 +1,10 @@
-  ## Oii! Eu sou a Kamily 👋
+  ## Hi! I'm Kamily 👋
 
-  - 🔭 Atualmente em busca da primeira oportunidade de emprego.
-  - ⚡ Cursando Engenharia da Computação.
-  - 🥋 Judoca Faixa Marrom.
-  - 🖖 Fã de Star Trek.
-  - 💻 Interesse em bancos de dados
+  - 🔭 Looking for a first job opportunity.
+  - ⚡ Computer Engineer Student.
+  - 💻 Interest in Database.
+  - 🥋 Judo - Brown Belt.
+  - 🖖 Star Trek Fan.
 
 ##
 
