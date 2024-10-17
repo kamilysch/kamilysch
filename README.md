@@ -3,7 +3,7 @@
   - 🔭 Looking for a first job opportunity.
   - ⚡ Computer Engineer Student.
   - 💻 Interest in Database.
-  - 🥋 Judo - Brown Belt.
+  - 🥋 Judo - Shodan.
   - 🖖 Star Trek Fan.
 
 ##
